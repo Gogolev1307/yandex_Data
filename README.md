@@ -22,7 +22,7 @@
 <td>pandas, matplotlib, plotly, folium</td>
 <tr>
 <td>10</td>
-<td><a href="https://github.com/Gogolev1307/Yandex_DA/blob/879d17da379c0d0c90678d1acaa6ea10f6ac33a7/Project_10.ipynb" target="_blank"><b>Сборный проект №2<br>А/А/В-тесты</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/87b8bed447753419cc71089256811fe3bc9a142a/Project_10.ipynb" target="_blank"><b>Сборный проект №2<br>А/А/В-тесты</b></a></td>
 <td><b>Изучение поведения пользователей мобильного приложения</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
