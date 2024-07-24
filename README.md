@@ -7,7 +7,7 @@
 <td><b>Используемые библиотеки</b></td>
 <tr>
 <td>13</td>
-<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/ff2f05e7309a91420953e8049d6b511941c81c49/project_13.ipynb" target="_blank"><b>Выпускной проект</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/aad8dc20d3917d538bd7516ca9270b8554df25ef/project_13.ipynb" target="_blank"><b>Выпускной проект</b></a></td>
 <td><b>Продуктовая аналитика в мобильном приложении - аналог Авито</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
