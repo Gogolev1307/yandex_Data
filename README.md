@@ -27,7 +27,7 @@
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>9</td>
-<td><a href="https://github.com/Gogolev1307/Yandex_DA/blob/11e718d66c2e6294bba3be25070f09216061f0ac/project_9.ipynb" target="_blank"><b>Принятие решений в бизнесе</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/dcbb6eaa96378cc0b62c96178ea7e493c8ed286c/project_9.ipynb" target="_blank"><b>Принятие решений в бизнесе</b></a></td>
 <td><b>Приоритизация гипотез и анализ результатов А/В-тестирования</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
