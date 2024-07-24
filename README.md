@@ -17,7 +17,7 @@
 <td>запуск скриптов через командную строку, Tableau, yandex cloud</td>
 <tr>
 <td>11</td>
-<td><a href="https://github.com/Gogolev1307/yandex_DA/blob/5b8038b27c4a314c3e92d437701f2d5f5bdd1289/project_11.ipynb" target="_blank"><b>Как рассказать историю с помощью данных</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/ec467c08efaa504da69fb23f143740358901070b/project_11.ipynb" target="_blank"><b>Как рассказать историю с помощью данных</b></a></td>
 <td><b>Исследование рынка общественного питания Москвы</b></td>
 <td>pandas, matplotlib, plotly, folium</td>
 <tr>
