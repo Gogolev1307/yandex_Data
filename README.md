@@ -68,5 +68,5 @@
 <td>pandas, seaborn</td>
 <tr>
 <td>1</td>
-<td><a href="https://github.com/Gogolev1307/yandex_DA/blob/29da357855b70bccf717f9c693da26c80fc4eb5e/project_1.ipynb" target="_blank"><b>Музыка больших городов</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/1cb615ac06fa51960c0a28eb91aedf98d772b1c2/project_1.ipynb" target="_blank"><b>Музыка больших городов</b></a></td>
 <td><b>Анализ музыкальных предпочтений юзеров из Мск и СПб и выявление особенностей для каждого региона</b></td>
