@@ -53,7 +53,7 @@
 <td>pandas, matplotlib, seaborn</td>
 <tr>
 <td>4</td>
-<td><a href="https://github.com/Gogolev1307/yandex_DA/blob/915f48230b3d53d72e20a7e02a919b0f635b1459/project_4.ipynb" target="_blank"><b>Статистический анализ данных</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/b4900010b4dabd61f55d288e3bf701c4baba1c80/project_4.ipynb" target="_blank"><b>Статистический анализ данных</b></a></td>
 <td><b>Анализ данных юзеров двух тарифных планов сотовой связи – выявление наиболее прибольного</b></td>
 <td>pandas</td>
 <tr>
