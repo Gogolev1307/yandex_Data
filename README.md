@@ -58,7 +58,7 @@
 <td>pandas</td>
 <tr>
 <td>3</td>
-<td><a href="https://github.com/Gogolev1307/yandex_DA/blob/122a8753fb72a5e83d3021604faba1bdc65c059b/project_3.ipynb" target="_blank"><b>Анализ рынка недвижимости СПб</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/64c687ad46041d2e424fb90c57a7729d812004a5/project_3.ipynb" target="_blank"><b>Анализ рынка недвижимости СПб</b></a></td>
 <td><b>Анализ различных факторов на рыночную цену квартиры в СПб</b></td>
 <td>pandas, matplotlib, seaborn</td>
 <tr>
