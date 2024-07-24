@@ -11,11 +11,6 @@
 <td><b>Продуктовая аналитика в мобильном приложении - аналог Авито</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
-<td>12</td>
-<td><a href="https://github.com/Gogolev1307/yandex_DA/blob/6e68a5de572fb1b770f4d7c89e3d57f1d08f0534/project_12.ipynb" target="_blank"><b>Автоматизация</b></a></td>
-<td><b>Дашборд для Яндекс.Дзена</b></td>
-<td>запуск скриптов через командную строку, Tableau, yandex cloud</td>
-<tr>
 <td>11</td>
 <td><a href="https://github.com/Gogolev1307/yandex_Data/blob/ec467c08efaa504da69fb23f143740358901070b/project_11.ipynb" target="_blank"><b>Как рассказать историю с помощью данных</b></a></td>
 <td><b>Исследование рынка общественного питания Москвы</b></td>
