@@ -38,7 +38,7 @@
 <td>PostgreSQL</td> 
 <tr>
 <td>7</td>
-<td><a href="https://github.com/Gogolev1307/Yandex_DA/blob/abe7dc7824df870c8328c8bc4953e6d67f783bfc/project_7.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/f368ba26fbc88efa6f39afe8ae00598a22a597a7/project_7.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td><b>Исследование причин провала рекламных кампаний приложения</b></td>
 <td>pandas, matplotlib, plotly</td>
 <tr>
