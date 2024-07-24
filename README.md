@@ -63,7 +63,7 @@
 <td>pandas, matplotlib, seaborn</td>
 <tr>
 <td>2</td>
-<td><a href="https://github.com/Gogolev1307/yandex_DA/blob/122a8753fb72a5e83d3021604faba1bdc65c059b/project_2.ipynb" target="_blank"><b>Исследование надёжности заёмщиков</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/c7d76a727639ebabcb478df2a362ff8538f4300f/project_2.ipynb" target="_blank"><b>Исследование надёжности заёмщиков</b></a></td>
 <td><b>Анализ влияния семейного положения и количества детей клиента на факт погашения кредита в срок</b></td>
 <td>pandas, seaborn</td>
 <tr>
