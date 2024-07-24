@@ -48,7 +48,7 @@
 <td>PostgreSQL</td> 
 <tr>
 <td>5</td>
-<td><a href="https://github.com/Gogolev1307/Yandex_DA/blob/0e743a82db8e7b677a5953453af55c66a9d2ef64/project_5.ipynb" target="_blank"><b>Сборный Проект — 1</b></a></td>
+<td><a href="https://github.com/Gogolev1307/yandex_Data/blob/131bb895a4b5f5ab511b6bb723911531fd9db2ee/project_5.ipynb" target="_blank"><b>Сборный Проект — 1</b></a></td>
 <td><b>Анализ данных игровой индустрии для выявления закономерностей, определяющих успех проекта</b></td>
 <td>pandas, matplotlib, seaborn</td>
 <tr>
